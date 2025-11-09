@@ -3,7 +3,7 @@
 A machine learning based **Movie Recommender System** that suggests movies similar to the one selected by the user.
 This project demonstrates the full ML workflow — from **data cleaning** and **preprocessing**, to building a **content-based recommendation model**, and finally **deploying it as a web app** using **Streamlit** and **ngrok**.
 
-**Created by: Nitish**
+**Created by: Sampath Kumar N A**
 
 ---
 
@@ -118,9 +118,9 @@ Here are some snapshots of the **Streamlit web app** showing the input interface
 
 ## 🔗 Connect With Me
 
-* 🌐 GitHub: [https://github.com/NitishRH07]
-* 💼 LinkedIn: [https://www.linkedin.com/in/nitish-r-honnali-798442327/]
+* 🌐 GitHub: [https://github.com/Sampath-77]
+* 💼 LinkedIn: [https://www.linkedin.com/in/sampth/]
 
 ---
 
-**Project by: Nitish**
+**Project by: Sampath Kumar N A**
